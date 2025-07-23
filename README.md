@@ -76,3 +76,5 @@ PCA for dimensionality reduction (explored during development in knn_adult_csv_u
 Model: Gradient Boosting Classifier, saved as best_model.pkl after evaluation.
 
 Evaluation Metrics: Accuracy, F1-score, Precision, Recall
+
+LINK TO THE APP :- https://employee-salary-prediction-project-sumitjana.streamlit.app/
